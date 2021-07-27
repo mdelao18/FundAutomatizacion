@@ -10,6 +10,6 @@ public class main_test_testng_parameters
 
         System.out.println("Mi nombre es: " + firstName);
         Persona persona  =  new Persona(firstName, "Tano");
-        Assert.assertEquals(persona.getFullName(), "Asoka Tano");
+        Assert.assertEquals(persona.getFullName(), "Ahsoka Tano");
     }
 }

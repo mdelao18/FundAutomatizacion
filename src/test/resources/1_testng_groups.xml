@@ -4,9 +4,7 @@
         <run>
             <exclude name="Imperio"></exclude>
             <include name="Republica"></include>
-
         </run>
-
     </groups>
     <test name="Regression">
         <classes>
